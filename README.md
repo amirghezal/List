@@ -12,4 +12,4 @@ List
 
 ## p.s. 
 # IOS 13+ Required for run
-# It wont run you own device till it's not uploaded to TestFlight or appStore. It's an IOS bug that scews up pods will try to install them on local Device WO Developer account
+It wont run you own device till it's not uploaded to TestFlight or appStore. It's an IOS bug that scews up pods will try to install them on local Device WO Developer account
